@@ -1,0 +1,223 @@
+
+ ======================Script========================
+<anyone>
+Good afternoon everyone and welcome to  group 4's presentation. Let us relax ourselves, clear our minds and
+by the end of this presentation I hope that all of us may have a great insight regarding this subject. 
+
+// Next slide (Members)
+
+So first, let us introduce ourselves. Starting from our leader,
+<leader>
+Hello everyone, I'm ___ the leader of this group and this is.
+<2nd mem>
+Hi to all, my name is___ next is,
+<3rd mem>
+Good afternoon everybody, my name is___ and lastly,
+<4th mem>
+Good day po sa lahat, my name is___ and we would like to present to all of you our topic for today which is Netlify.
+
+// Next Slide (Agenda)
+
+<Leader>
+Today we will discuss about what is netlify, its uses, contents, functions and how we will benefit from it. 
+
+// Next Slide (Introduction)
+
+ ===================Introduction=====================
+
+<mem 2>
+*after reading* In layman's term it is a web development platform which is meant to multiply your productivity in the best possible way. The platform helps developers to build, test, and deploy websites.
+
+Now, let us discover what Netlify can do
+
+// Next Slide (Netlify)
+
+ =====================Netlify=======================
+
+<mem 2>
+As we saw in the video, Netlify is an efficient tool that have a lot of benefits not only to developers but also to the customers, business owner and such. It has the capabilities to connect and build web applications and run it.
+
+With its Ecosystem and Integrations, they're able to work with open source contributors, web framework authors, digital agencies, and technology vendors in the modern web ecosystem; developers pick and plug in the tools for their projects. 
+
+mem 3 & mem 4 will now show you what Netlify is known for.
+
+// Next Slide (Uses)
+
+ ======================Uses=========================
+
+<mem 3> 
+Do you want to know what makes Netlify an amazing option to consider? Have a look at the features enlisted to get a better idea:
+
+before we discuss netlify's feature about hosting let's learn first what it is to begin w/
+
+Hosting
+is a service that maintains the files of your websites on their servers ex. wordpress netlify and wix
+
+What is Server, server are powerful pieces of hardware that are physically located in data centers which are typically run and managed by dif web hosting company 
+
+so let's go back to see what's netlify feautures about hosting
+
+reads
+
+you don;t have to pay to get support for a custom domain name. along w/ its free tier, it also offers pro ver w/ interesting services. You can go w/ any of theses hosting solution as pey your needs
+
+*after reading Hosting* 
+
+<mem 3>
+You don’t have to pay to get support for a custom domain name. Along with its free tier, it also offers pro version with interesting services. you can go with any of these hosting solution as per your needs. 
+
+// Next Slide (Serverless Functions)
+
+<mem 3>
+*reads Serverless Functions*
+
+b4 we understand this feature we shud learn about what is BE services that the slides says we dont want to deal w/ 
+
+In software engineering, the terms frontend and backend  refer to the separation of concerns between the presentation layer (frontend), and the data access layer (backend). BE focuses on a site's structure, data, sys., and logic. whereas FE deals w/ the visual aspects of a wesite ex. the part that the users see and interacts w/
+
+now let's get back to our slide 
+
+*after reading Serverless Functions* 
+
+<mem 3>
+Don’t be worried about creating backend when using Netlify because it allows to integrate serverless functions for backend solutions. 
+
+// Next Slide (Forms & Add-ons)
+
+<mem 4>
+*reads Forms*
+
+<mem 4>
+*reads Add-ons*
+
+// Next Slide (Con Dep)
+
+<mem 4>
+*reads Continuous Deployment*
+
+*after mem 4 reads con dep*
+
+<mem 4>
+	By this you just have to set an initial connection between your source code and site, then you can easily push all the changes to make an update. And that’s it.
+
+// Next Slide (How to use)
+
+ ====================How to use======================
+
+<leader>
+Now for our next topic, How to use or add a new site?
+
+There are many ways to create a new site or app on Netlify. With Add new site, available on both your team’s Sites page and the Netlify UI landing page, you can choose the option that works best for you. You can add a new site in three ways:
+
+- By importing an existing project from git repository
+- By using a prebuilt site from Netlify Templates
+- and last, by deploying local project files manually using Netlify's deploy dropzone. 
+
+First we're going to start with Import from Git.
+
+---------------------------------Import from Git-----------------------------
+
+<mem 2>
+I. Import from an existing repository
+	You can import an existing project from a Git repository and deploy it on Netlify. When you import your existing project repository to Netlify, our continuous deployment will automatically update your site each time you push changes. Here are the steps: 
+
+// Next Slide (Import from an existing repository)
+
+Step 1. After logging-in to Netlify and selecting the team which you want to use to publish your website, for our example it is TESDA WD B8 PM, it will first show you the team overview page with your analytics, published websites, and your team members. There is two option to start our first step to published a website. The first one is by scrolling down to the "Sites" page of the overview tab and the second one is by clicking the "Sites" tab beside the "Team overview tab". Here there are three options we can choose to start a website, in this case we're going to choose "Import from git".
+
+Step 2. The next step is choosing which provider of our source code is hosted, in our case it is github. So we are going to select that and a pop-up tab will show for an authorization request. 
+
+// Next slide
+
+Step 3. After the authorization you will move to the next step that asking us to select the repository that we are going to use for our website. 
+
+Step 4. The next step is by configuring the basic settings of our website. In here we can see the owner of the website, the branch that we are going to use which is the main branch and some basic settings if we are using a static site generator or a build tool. But since we are just trying to make a basic website we can just leave these options as it is and select the "Deploy site". Wait for it to build up and generate a link for our new site and we are done. We can see it by clicking the generated link.
+
+	And with that, you have a new site. Next one is by using Netlify templates, Mem #3 will show you the ropes:
+
+--------------------------------Netlify Templates----------------------------
+
+<Mem 3>
+II. With Netlify Templates, 
+	you can choose from a number of prebuilt starter projects that use popular libraries and tools from the Jamstack ecosystem.
+
+// Next Slide (Using Netlify Template)
+
+II. Use Netlify Templates
+
+Step 1. Similar to step 1 of importing thru git, go to the "Sites" tab/page but now we're going to choose "browse templates".
+
+Step 2. Next is by choosing to a wide variety of open sources templates that fit our preferences. You can do a preview of each selection by clicking the hyperlinks below the templates. "Live demo" for the user experience of the website and "Source code" for the repository to which you can explore all the files of the template. You can select a template by clicking the main image of the template with a caption "Use template".
+
+// Next slide
+
+Step 3. Next step is by selecting "GitHub" as our Git provider in which the template will clone as a new repository and authorize it.
+
+Step 4. After that, it will direct us to another basic settings which we can see the owner and edit the repository name or its privacy. If we are content with our changes, we can now click the deploy site and wait for it to build up and generate a link for our new website. 
+
+	Once your site is deployed, it will be automatically updated with each commit through Netlify’s continuous deployment.
+
+	And for the last option, mem 4 will show you how to deploy local files to create a website thru Netlify.
+
+---------------------------------Local Files-----------------------------
+
+<mem 4>
+III. 	If you have an existing project on your local machine that isn’t linked to a Git repository, you can manually deploy your site by using Netlify’s deploy dropzone.
+
+
+// Next Slide (Deploy local files)
+
+Go to the "Sites" page/tab and upload your project folder into the drop zone by drag and drop or by selecting "browse to upload" option. Wait for it to upload and generate a link for you to view your newly published website. 
+
+// Next Slide (Things to Consider)
+
+	And with that, the main course of this presentation is done. Our leader will now tell us things to consider about this topic.
+
+=================Things to Consider==================
+
+Things to Consider: 
+
+<leader>
+	Here are some reminders that we think we should include for this presentation.
+
+// Next Slide (Designing the layout of the netlify template)
+
+I. Designing the layout of the netlify template
+ - Configuring the layout of the netlify template: You can configure the layout of the website by editing the files and commiting it to its repository. You can do this by following a guide made by the creator of the template usually found at the bottom of the repository to help you how to configure the website's layout and its functions.
+
+// Next Slide (Site's URL change)
+
+II. Changing the website's url
+ - You can change the url of your website by clicking the site settings and selecting the "Change site name" button under the "Site information" page.
+
+// Next Slide (Site's deletion)
+
+III. Deleting site
+ - You can delete a site by clicking the site settings and directing to "Danger zone" page thru scrolling down or by clicking it on the left side of the tab. Then you will see a red button with "Delete this site". Clicking it will show a pop up that reconfirm you about this action. You can continue deleting the site by typing in the name of the site and selecting delete.
+
+ ====================Summary======================
+
+Summary
+<anyone>
+	Netlify is the platform developers love for building highly-performant and dynamic websites, e-commerce stores and web applications. By uniting an extensive ecosystem of technologies, services and APIs into one workflow, Netlify unlocks new levels of team productivity, while saving time and money.
+
+Conclusion
+<anyone>
+	This brings us to the end of group 4's presentation. Thank you all for listening.
+
+
+
+==================Don't mind this===================
+
+It will work by connecting your GitHub repository to pull your website’s source code. After that it will run a build process to pre-render your website’s pages into static HTML. 
+
+Netlify is an Enabler member of the MACH Alliance, group of independent technology companies that aim to advocate for open, best-of-breed technology ecosystems. 
+
+
+
+
+
+
+
+
+  
